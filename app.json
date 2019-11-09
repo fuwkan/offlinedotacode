@@ -1,0 +1,16 @@
+{
+	"name": "HDSCode",
+	"description": "Hastebin Plus is an open-source Pastebin software written in node.js.",
+	"repository": "https://github.com/MarvinMenzerath/HastebinPlus",
+	"logo": "https://raw.githubusercontent.com/MarvinMenzerath/HastebinPlus/master/static/favicon.png",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"hdscode",
+		"haste",
+		"hastebin",
+		"code",
+		"syntax highlighting"
+	]
+}
